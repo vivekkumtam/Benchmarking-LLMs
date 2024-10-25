@@ -32,8 +32,3 @@ The following metrics are used to assess the accuracy and understanding of the L
 - Pre-trained LLMs (e.g., `transformers` library from Hugging Face)
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `rouge-score`, `nltk`
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/document-understanding-llm.git
